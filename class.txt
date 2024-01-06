@@ -1,0 +1,11 @@
+
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 12 (delta 1), reused 4 (delta 1), pack-reused 6
+Unpacking objects: 100% (12/12), 2.47 KiB | 8.00 KiB/s, done.
+Updating upstream
+From https://github.com/lrwham/Meta-Front-End-Developer-PC-m3l2_forking_lab
+ * [new branch]      main       -> upstream/main
+coder@efd845423d8e:~/project$ cd Meta-Front-End-Developer-PC-m3l2_forking_lab/
+coder@efd845423d8e:~/project/Meta-Front-End-Developer-PC-m3l2_forking_lab$ touch class.txt
+coder@efd845423d8e:~/project/Meta-Front-End-Developer-PC-m3l2_forking_lab$ 
